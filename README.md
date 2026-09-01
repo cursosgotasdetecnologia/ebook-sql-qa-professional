@@ -1,4 +1,4 @@
-# 📘 SQL para QA na Prática
+# 📘 EBook  - SQL para QA na Prática
 
 **Autor:** Everton Ulisses de Mendonça  
 **Canal:** [Gotas de Tecnologia](https://youtube.com/gotasdetecnologia)  
