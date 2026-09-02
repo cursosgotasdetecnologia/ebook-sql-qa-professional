@@ -1,0 +1,14 @@
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Arquivos de IDEs (caso use)
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Arquivos de log e ambiente
+*.log
+.env
