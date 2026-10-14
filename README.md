@@ -249,5 +249,5 @@ pg_restore -U postgres -d loja_qa --no-owner --no-privileges --exit-on-error "da
 - Ebook: **SQL para QA na Prática**
 - Autor: Everton Ulisses de Mendonça
 - Canal: [Gotas de Tecnologia](https://www.youtube.com/c/GotasdeTecnologia)
-- Vídeo de instalação: **[SUBSTITUIR PELO LINK NÃO LISTADO ANTES DE PUBLICAR]**
+- Vídeo de instalação: **[https://www.youtube.com/watch?v=wQNaoLtysg4&list=PLG-LTvNnkKbI]**
 
